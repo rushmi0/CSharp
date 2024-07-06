@@ -1,0 +1,4 @@
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example801/Example801/obj/Debug/Example801.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example801/Example801/obj/Debug/Example801.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_++/Example801/Example801/obj/Debug/Example801.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_++/Example801/Example801/obj/Debug/Example801.csproj.CoreCompileInputs.cache
