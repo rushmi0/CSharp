@@ -1,0 +1,2 @@
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example603/Example603/obj/Debug/Example603.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example603/Example603/obj/Debug/Example603.csproj.CoreCompileInputs.cache

@@ -1,0 +1,12 @@
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example702/Example702/bin/Debug/Example702.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example702/Example702/bin/Debug/Example702.pdb
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example702/Example702/obj/Debug/Example702.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example702/Example702/obj/Debug/Example702.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example702/Example702/obj/Debug/Example702.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example702/Example702/obj/Debug/Example702.pdb
+/Users/home/Documents/2013111089_++/Example702/Example702/bin/Debug/Example702.exe
+/Users/home/Documents/2013111089_++/Example702/Example702/bin/Debug/Example702.pdb
+/Users/home/Documents/2013111089_++/Example702/Example702/obj/Debug/Example702.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_++/Example702/Example702/obj/Debug/Example702.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_++/Example702/Example702/obj/Debug/Example702.exe
+/Users/home/Documents/2013111089_++/Example702/Example702/obj/Debug/Example702.pdb
