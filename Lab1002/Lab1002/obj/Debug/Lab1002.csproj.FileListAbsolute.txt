@@ -1,0 +1,6 @@
+/Users/home/Documents/2013111089_++/Lab1002/Lab1002/bin/Debug/Lab1002.exe
+/Users/home/Documents/2013111089_++/Lab1002/Lab1002/bin/Debug/Lab1002.pdb
+/Users/home/Documents/2013111089_++/Lab1002/Lab1002/obj/Debug/Lab1002.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_++/Lab1002/Lab1002/obj/Debug/Lab1002.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_++/Lab1002/Lab1002/obj/Debug/Lab1002.exe
+/Users/home/Documents/2013111089_++/Lab1002/Lab1002/obj/Debug/Lab1002.pdb
