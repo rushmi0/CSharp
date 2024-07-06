@@ -1,0 +1,6 @@
+/Users/home/Documents/2013111089_++/Lab1105/Lab1105/bin/Debug/Lab1105.exe
+/Users/home/Documents/2013111089_++/Lab1105/Lab1105/bin/Debug/Lab1105.pdb
+/Users/home/Documents/2013111089_++/Lab1105/Lab1105/obj/Debug/Lab1105.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_++/Lab1105/Lab1105/obj/Debug/Lab1105.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_++/Lab1105/Lab1105/obj/Debug/Lab1105.exe
+/Users/home/Documents/2013111089_++/Lab1105/Lab1105/obj/Debug/Lab1105.pdb
