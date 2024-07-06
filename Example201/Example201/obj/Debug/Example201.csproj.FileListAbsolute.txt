@@ -1,0 +1,6 @@
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example201/Example201/bin/Debug/Example201.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example201/Example201/bin/Debug/Example201.pdb
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example201/Example201/obj/Debug/Example201.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example201/Example201/obj/Debug/Example201.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example201/Example201/obj/Debug/Example201.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Example201/Example201/obj/Debug/Example201.pdb
