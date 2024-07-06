@@ -1,0 +1,12 @@
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab704/Lab704/bin/Debug/Lab704.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab704/Lab704/bin/Debug/Lab704.pdb
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab704/Lab704/obj/Debug/Lab704.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab704/Lab704/obj/Debug/Lab704.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab704/Lab704/obj/Debug/Lab704.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab704/Lab704/obj/Debug/Lab704.pdb
+/Users/home/Documents/2013111089_++/Lab704/Lab704/bin/Debug/Lab704.exe
+/Users/home/Documents/2013111089_++/Lab704/Lab704/bin/Debug/Lab704.pdb
+/Users/home/Documents/2013111089_++/Lab704/Lab704/obj/Debug/Lab704.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_++/Lab704/Lab704/obj/Debug/Lab704.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_++/Lab704/Lab704/obj/Debug/Lab704.exe
+/Users/home/Documents/2013111089_++/Lab704/Lab704/obj/Debug/Lab704.pdb
