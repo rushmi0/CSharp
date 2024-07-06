@@ -1,0 +1,6 @@
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab601/Lab601/bin/Debug/Lab601.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab601/Lab601/bin/Debug/Lab601.pdb
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab601/Lab601/obj/Debug/Lab601.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab601/Lab601/obj/Debug/Lab601.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab601/Lab601/obj/Debug/Lab601.exe
+/Users/home/Documents/2013111089_วัชรพล พงษ์วิลัย/Lab601/Lab601/obj/Debug/Lab601.pdb

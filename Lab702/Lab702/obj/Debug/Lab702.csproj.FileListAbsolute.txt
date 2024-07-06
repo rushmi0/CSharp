@@ -1,0 +1,6 @@
+/Users/home/Documents/2013111089_++/Lab702/Lab702/bin/Debug/Lab702.exe
+/Users/home/Documents/2013111089_++/Lab702/Lab702/bin/Debug/Lab702.pdb
+/Users/home/Documents/2013111089_++/Lab702/Lab702/obj/Debug/Lab702.csprojAssemblyReference.cache
+/Users/home/Documents/2013111089_++/Lab702/Lab702/obj/Debug/Lab702.csproj.CoreCompileInputs.cache
+/Users/home/Documents/2013111089_++/Lab702/Lab702/obj/Debug/Lab702.exe
+/Users/home/Documents/2013111089_++/Lab702/Lab702/obj/Debug/Lab702.pdb
